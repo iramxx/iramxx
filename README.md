@@ -1,5 +1,5 @@
 <h1 align="center">Iramxx, aka: Ahmed Maghri</h1>
-<h3 align="center">backend development, clean code, and building real-world projects.</h3>
+<h3 align="center">Computer Science, clean code, and building real-world projects.</h3>
 
 <p align="center">
 I'm a passionate backend-focused developer with a deep interest in building real-world, impactful applications. I enjoy designing scalable systems, writing clean and maintainable code, and turning ideas into fully functional platforms. Whether it's a bug bounty system for ethical hackers, an auction marketplace, or a social network with real-time interaction, I always focus on solving real problems with practical, well-structured solutions. I believe in learning by doing and take pride in crafting full-stack projects that reflect both technical skill and purpose.
