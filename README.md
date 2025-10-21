@@ -2,7 +2,12 @@
 <h3 align="center">Computer Science, clean code, and building real-world projects.</h3>
 
 <p align="center">
-I'm a passionate backend-focused developer with a deep interest in building real-world, impactful applications. I enjoy designing scalable systems, writing clean and maintainable code, and turning ideas into fully functional platforms. Whether it's a bug bounty system for ethical hackers, an auction marketplace, or a social network with real-time interaction, I always focus on solving real problems with practical, well-structured solutions. I believe in learning by doing and take pride in crafting full-stack projects that reflect both technical skill and purpose.
+I’m a backend-oriented developer who loves turning complex ideas into clean and efficient systems. My work blends software engineering and AI, combining logic, creativity, and structure to build tools that matter.
+I enjoy working with Python, Django, JavaScript, Node.js, React, SQL, and TensorFlow, using them to create projects that are both scalable and meaningful.
+
+Whether I’m designing intelligent features, optimizing backend performance, or exploring new AI models, my focus is always on clarity, practicality, and impact. Projects like Hocus Focus and MSA Hub reflect my belief that good code isn’t just functional; it solves real problems with elegance.
+
+I’m constantly learning, researching, and refining my craft to grow as both a developer and a thinker. My goal is not just to build software, but to build understanding.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iramxx&label=Profile%20views&color=0e75b6&style=flat" alt="iramxx" /> </p>
